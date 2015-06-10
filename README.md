@@ -6,7 +6,7 @@ First, I read the X_test, y_test, and subject_test files into R
 X_test <- read.table("~/Desktop/R/UCI HAR Dataset/test/X_test.txt", quote="\"")
 y_test <- read.table("~/Desktop/R/UCI HAR Dataset/test/y_test.txt", quote="\"")
 
-# Read in the subject_test data
+**Read in the subject_test data**
 subject_test <- read.table("~/Desktop/R/UCI HAR Dataset/test/subject_test.txt", quote="\"")
 
 # I checked the dimensions of each of the files I read in to see how they match up and determine how I should merge the files.
