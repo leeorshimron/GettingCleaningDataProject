@@ -19,12 +19,12 @@ output: html_document
 * "tBodyAcc-std()-X" – this variable measures the standard deviation of the x-axis accelerometer variable. Measure is bound between -1 and 1.                      
 * "tBodyAcc-std()-Y" – this variable measures the standard deviation of the y-axis accelerometer variable. Measure is bound between -1 and 1.                                 
 * "tBodyAcc-std()-Z" – this variable measures the standard deviation of the z-axis accelerometer variable. Measure is bound between -1 and 1.                                 
-* "tGravityAcc-mean()-X"        
-* "tGravityAcc-mean()-Y"       
-* "tGravityAcc-mean()-Z"        
-* "tGravityAcc-std()-X"        
-* "tGravityAcc-std()-Y"         
-* "tGravityAcc-std()-Z"        
+* "tGravityAcc-mean()-X" – this variable measures the mean of the x-axis gravity accelerometer variable.        
+* "tGravityAcc-mean()-Y" – this variable measures the mean of the y-axis gravity accelerometer variable.          
+* "tGravityAcc-mean()-Z" – this variable measures the mean of the z-axis gravity accelerometer variable.            
+* "tGravityAcc-std()-X" – this variable measures the standard deviation of the x-axis gravity accelerometer variable.           
+* "tGravityAcc-std()-Y" – this variable measures the standard deviation of the y-axis gravity accelerometer variable.        
+* "tGravityAcc-std()-Z" – this variable measures the standard deviation of the z-axis gravity accelerometer variable.        
 * "tBodyAccJerk-mean()-X"       
 * "tBodyAccJerk-mean()-Y"      
 * "tBodyAccJerk-mean()-Z"       
